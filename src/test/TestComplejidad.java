@@ -62,4 +62,5 @@ public class TestComplejidad {
         // Para permitir "O(n)" o "O(N)", etc.
         return s.replaceAll("\\s+", "").toUpperCase();
     }
+    
 }
